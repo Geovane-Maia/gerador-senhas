@@ -3,7 +3,7 @@ body {
     text-align: center;
     background: #f4f4f4;
     margin: 50px;
-    background: linear-gradient(to right, black, #218838);
+    background: linear-gradient(to right, black, red);
 }
 
 .container {
@@ -30,13 +30,13 @@ input, button {
 }
 
 button {
-    background-color: #28a745;
+    background-color: red;
     color: white;
     cursor: pointer;
 }
 
 button:hover {
-    background-color: #218838;
+    background-color: blue;
 }
 
 .options {
